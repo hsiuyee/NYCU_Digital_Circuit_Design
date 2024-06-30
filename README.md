@@ -5,3 +5,5 @@
 授課教師 Lecturer：莊仁輝
 
 授課時間 Semester：112-2 2023-24 Spring
+
+* 不調分
